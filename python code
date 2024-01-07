@@ -1,0 +1,5 @@
+# my code to add two numbers
+num_1 = 50
+num_2 = 30
+sum_ = num_1 + num_2
+print("sum is = ", sum_)
